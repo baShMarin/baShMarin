@@ -1,15 +1,29 @@
-### Welcome to my profile :P 👋
+### Hi there 🙌 I hope you find useful my public repos.
+ - 🔭 I’m currently studying on MasterD, MasterMind.
+ - 🌱 I’m currently learning Ethical Hacking and OSCP.
+ - 👯 I’m looking to collaborate on new projects
+ - 💬 Ask me about .lua, webmaster, fiveM projects, core, cibersecurity.
 
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<br>
-</div>  
- 
-  ##
- 
-<div> 
+## GitHub Stats
+<p align="left">
+  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=baShMarin&theme=radical&show_icons=true&hide_border=true"/>
+  <img height="180rem" max-width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swkeep&theme=radical&langs_count=10&hide_border=true"/>
+</a>
+</p>
 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+ ## Languages
+
+
+<div align="center">
+  
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+ 
+ 
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
