@@ -6,8 +6,7 @@
 
 ## GitHub Stats
 <p align="left">
-  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=baShMarin&show_icons=true&theme=cobalt"/>
-</a>
+  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=baShMarin&show_icons=true&theme=tokyonight"/>
 </p>
 
 
