@@ -25,8 +25,8 @@
 
 <div align="left">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://bashmarin.github.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/ahfkF6ffSX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://bashmarin.github.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-white?style=for-the-badge&logo=github&logoColor=black" target="_blank"></a>
  
  </div>
  
