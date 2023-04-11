@@ -1,5 +1,5 @@
 ### Hi there ✌️I'm M.Marin I hope you find useful my public repos.
- - 🔭 I’m currently studying on MasterD, MasterMind.
+ - 🔭 I’m currently studying on MasterD.
  - 🌱 I’m currently learning Ethical Hacking and OSCP.
  - 👯 I’m looking to collaborate on new projects.
  - 💬 Ask me about .lua, webmaster, fiveM projects, ethical hacking.
