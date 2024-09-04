@@ -23,7 +23,7 @@
 
 </div>
 
-## ¿Dónde me encuentro más disponible?
+## ¿Dónde te encuentro?
 
 <div align="left">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
