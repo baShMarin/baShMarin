@@ -10,7 +10,7 @@
 </p>
 
 
- ## Languages
+ ## Lenguajes
 
 
 <div align="left">
@@ -23,7 +23,7 @@
 
 </div>
 
-## How to reach me:
+## ¿Dónde me encuentro más disponible?
 
 <div align="left">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
