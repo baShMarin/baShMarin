@@ -6,11 +6,11 @@
 
 ## GitHub Stats
 <p align="left">
-  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=baShMarin&show_icons=true&theme=tokyonight"/>
+  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=baShMarin&show_icons=true&theme=dracula&locale=es"/>
 </p>
 
 
- ## Lenguajes
+ ## Lenguajes & Frameworks
 
 
 <div align="left">
