@@ -1,14 +1,8 @@
-### Hi there ✌️I'm M.Marin I hope you find useful my public repos.
- - 🔭 I’m currently studying on MasterD.
- - 🌱 I’m currently learning Ethical Hacking.
- - 👯 I’m looking to collaborate on new projects.
- - 💬 Ask me about .lua, fiveM projects, ethical hacking.
-
-## GitHub Stats
-<p align="left">
-  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=baShMarin&show_icons=true&theme=dracula&locale=es"/>
-</p>
-
+### Hola ✌️ Soy Manu. Espero que mis repositorios públicos te resulten útiles.
+ - 🔭 Diseñador y Desarrollador Jr. Web.
+ - 🌱 No me preguntes si puedo hackear el facebook de tu ex.
+ - 👯 Estoy abierto a nuevos proyectos.
+ 
 
  ## Lenguajes & Frameworks
 
@@ -23,7 +17,7 @@
 
 </div>
 
-## Contacta aquí
+## Contacta conmigo
 
 <div align="left">
 
